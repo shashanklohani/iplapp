@@ -1,0 +1,19 @@
+.StatsRow{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Spirax', cursive;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px 0;
+}
+
+.StatsRow > div{
+    border: 4px solid black;
+    font-size: 30px;
+}
+
+
+.StatsRow > h1{
+    border: 4px solid black;
+    font-size: 30px;
+}

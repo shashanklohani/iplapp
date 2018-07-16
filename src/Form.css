@@ -1,0 +1,22 @@
+.Form{
+    display: flex;
+    font-family: 'Spirax', cursive;
+    font-size: 20px;
+    justify-content:center;
+    align-items: center;
+}
+
+.Form > button{
+    font-family: 'Spirax', cursive;
+    font-size: 20px;
+}
+
+.Form > input{
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.Stats{
+    display: flex;
+    flex-direction: column;
+}
